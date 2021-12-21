@@ -1,8 +1,8 @@
 ## Festival-Greeting-Website
-
-<h2> Website Link : 
+<br><br>
+<h3> Website Link : 
 <a href="https://shrutimishra-2002.github.io/Festive-Greetings/" target="_blank">HAVE A LOOK</a>
-</h2> 
+</h3> 
 <br>
 
 ## 📌 Tech Stack:
