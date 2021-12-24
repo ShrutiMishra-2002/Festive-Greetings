@@ -2,26 +2,25 @@
 
 section
 {
-  background:url(bg.png);
+  background:url(snow-img/bg.png);
   /* background:linear-gradient(#0f0c29,#302b63,#24243e); */
   background-size: cover;
   width: 100%;
   height:800px;
   position:relative;
   overflow:hidden;
- }
- /*  
-div .audio{
+}  
+audio src{
 
-  visibility: hidden; 
-} */
+  visibility: hidden;
+} 
 /* body {
   /* background: #333333; 
   padding-top: 400px;
 } */
 .snow1
 {
-background: url(1.png), url(2.png), url(3.png);
+background: url(snow-img/1.png), url(snow-img/2.png), url(snow-img/3.png);
 background-repeat: repeat;
 width:100%;
 height: 800px;
