@@ -55,7 +55,7 @@
 <h2>CHRISTMAS PAGE ANIMATION SECTION</h2>
 <br>
 
-<img src="xmas.png" alt="christmas" width="700px" height="400px">
+<img src="xmas1.png" alt="christmas" width="700px" height="400px">
 <br><br>
 <img src="xmas.png" alt="christmas" width="700px" height="400px">
 <br><br>
