@@ -9,12 +9,12 @@
 </head>
 <body>
     <div class="container">
-        <h2><span>Countdown to New Year</span> 2022</h2>
+        <h2 id="h2"><span>Happy New Year</span> 2022</h2>
         <div class="countdown">
-            <div id="day">NA</div>
-            <div id="hours">NA</div>
-            <div id="minutes">NA</div>
-            <div id="seconds">NA</div>
+            <div id="day">0</div>
+            <div id="hours">0</div>
+            <div id="minutes">0</div>
+            <div id="seconds">0</div>
         </div>
     </div>
     <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
@@ -24,7 +24,7 @@
         $('body').fireworks();
     </script>
 
-    <script>
+    <!-- <script>
         var countdate= new Date('Jan 1, 2022 00:00:00').getTime();
         function newyear(){
 
@@ -48,8 +48,33 @@
         }
         setInterval(function(){
             newyear();
-        })
+        }) -->
 
+    </script>
+    <!-- <script type="text/javascript">
+      
+        function changeText()
+        {
+            var display = document.getElementById('h2');
+            display.innerHTML = "";
+            display.innerHTML = "Countdown to New Year";
+
+
+        }
+              
+        function defaultText()
+        {
+            var display = document.getElementById('h2');
+            display.innerHTML = "";
+            display.innerHTML = "HAPPY NEW YEAR";
+
+
+        }
+        setInterval(function(){
+            changeText();
+
+        }) -->
+          
     </script>
 </body>
 </html>

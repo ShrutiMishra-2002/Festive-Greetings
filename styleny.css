@@ -46,6 +46,9 @@ body {
   font-size: 0.2em;
   color: #fff;
 }
+/* h2:hover::after{
+  content: 'HAPPY NEW YEAR';
+} */
 .countdown{
 margin-top: 50px;
 display: flex;
