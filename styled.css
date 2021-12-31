@@ -156,7 +156,10 @@ body{
     /*background-color: #0000CD;*/
     background-color: #A52A2A;
     width: 240px;
-    height: 100px;
+    height: 100px; 
+    /* width:44vh;  */
+    /* height:18vh;  */ 
+
     border-bottom-left-radius: 100px;
     border-bottom-right-radius: 100px;
    /* border-top-left-radius: 100px;
@@ -227,14 +230,71 @@ body{
     /*background: #662d70;*/
     background: #000080;    
     border-radius: 50%;
-    width: 500px;
-    height: 500px;
+    /* width: 500px;
+    height: 500px; */
+    width:70vh ;
+    height: 70vh;
     border: 5px solid #fff;
     top: 50%;
     left: 50%;
     box-shadow: 0 20px 100px rgba(0,0,0,.5);
-    flex-direction: column ;
+    /* flex-direction: column ; */
 }
+/* @media screen and (max-width:360px) {
+   
+   .circle{
+    width:70%;
+    height:40%;
+    width:60vh;
+    height:60vh;
+   }
+   .circle:before{
+      width:70%;
+      height:40%;
+      transform: scale(1.09);
+      border: 5px dotted #fff;
+
+
+   }
+   .light{
+       width:140px;
+       height:50px;
+       border: 2px solid #fff;
+       /* bottom:-50px; */
+       /* margin-bottom: 50%;
+
+
+
+   }
+   .light:before{
+       width:30px;
+       height:60px;
+       top:-60px;
+       left: calc(50% - 30px);
+
+   }
+   .h1{
+    font-size: 20%;
+    line-height: 40%;
+
+
+   }
+   .h1 span{
+     
+    font-size: 12vh;
+
+
+
+   }
+
+
+} */ 
+/* @media screen and (min-width:360) {
+    top: 50%;
+    left: 50%;
+    width: ;
+    
+} */
 .circle:before
 {
     content: '';
@@ -273,7 +333,8 @@ h1{
 }
 h1 span{
     
-    font-size: 100px;
+    /* font-size: 100px; */
+    font-size:12vh ;
     font-family: 'Kaushan Script', cursive;
     color: #fff;
 
@@ -283,9 +344,9 @@ audio{
     visibility: hidden;
 }
 /*responsive*/
-@media only screen and (max-width: 1140px)
+/* @media only screen and (max-width: 1140px)
  {
      .circle{
          flex-direction: column;
      }
- }
+ } */
