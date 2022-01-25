@@ -19,45 +19,54 @@
 
 <h2>HEADER SECTION</h2>
 <br>
-<img src="header.png" alt="header" width="700px" height="400px">
+<img src="readmeimage/header.png" alt="header" width="700px" height="400px">
 <br><br>
 <h2>ABOUT SECTION</h2>
 <br>
-<img src="about.png" alt="about" width="700px" height="400px">
+<img src="readmeimage/about.png" alt="about" width="700px" height="400px">
 <br><br>
 <h2>CONTENT SECTION</h2>
 <br>
 
-<img src="content1.png" alt="content1" width="700px" height="400px">
+<img src="readmeimage/content1.png" alt="content1" width="700px" height="400px">
 <br><br>
-<img src="content2.png" alt="content2" width="700px" height="400px">
+<img src="readmeimage/content2.png" alt="content2" width="700px" height="400px">
 <br><br>
 <h2>ALL ANIMATION SECTION</h2>
 <br>
 
-<img src="animation1.png" alt="animation" width="700px" height="400px">
+<img src="readmeimage/animation1.png" alt="animation" width="700px" height="400px">
 <br><br>
-<im<img src="animation2.png" alt="animation" width="700px" height="400px">
+<im<img src="readmeimage/animation2.png" alt="animation" width="700px" height="400px">
 <br><br>
-<img src="animation3.png" alt="animation" width="700px" height="400px">
+<img src="readmeimage/animation3.png" alt="animation" width="700px" height="400px">
 <br><br>
-<img src="animation4.png" alt="animation" width="700px" height="400px">
+<img src="readmeimage/animation4.png" alt="animation" width="700px" height="400px">
 <br><br>
-<img src="animation5.png" alt="animation" width="700px" height="400px">
+<img src="readmeimage/animation5.png" alt="animation" width="700px" height="400px">
 <br><br>
 <h2>DIWALI PAGE ANIMATION SECTION</h2>
 <br>
 
-<img src="mainpage1.png" alt="diwali" width="700px" height="400px">
+<img src="readmeimage/mainpage1.png" alt="diwali" width="700px" height="400px">
 <br><br>
-<img src="mainpage.png" alt="diwali1" width="700px" height="400px">
+<img src="readmeimage/mainpage.png" alt="diwali1" width="700px" height="400px">
 <br><br>
 <h2>CHRISTMAS PAGE ANIMATION SECTION</h2>
 <br>
 
-<img src="xmas1.png" alt="christmas" width="700px" height="400px">
+<img src="readmeimages/xmas1.png" alt="christmas" width="700px" height="400px">
 <br><br>
-<img src="xmas.png" alt="christmas" width="700px" height="400px">
+<img src="readmeimage/xmas.png" alt="christmas" width="700px" height="400px">
+<br><br>
+<h2>REPUBLIC DAY PAGE ANIMATION SECTION</h2>
+<br>
+
+<img src="readmeimages/republic1.png" alt="republic1" width="700px" height="400px">
+<br><br>
+<img src="readmeimage/republic2.png" alt="republic2" width="700px" height="400px">
+<br><br>
+<img src="readmeimage/republic3.png" alt="republic3" width="700px" height="400px">
 <br><br>
 
 <h2>📌 Contact :</h2>
