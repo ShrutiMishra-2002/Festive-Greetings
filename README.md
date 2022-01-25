@@ -55,14 +55,14 @@
 <h2>CHRISTMAS PAGE ANIMATION SECTION</h2>
 <br>
 
-<img src="readmeimages/xmas1.png" alt="christmas" width="700px" height="400px">
+<img src="readmeimage/xmas1.png" alt="christmas" width="700px" height="400px">
 <br><br>
 <img src="readmeimage/xmas.png" alt="christmas" width="700px" height="400px">
 <br><br>
 <h2>REPUBLIC DAY PAGE ANIMATION SECTION</h2>
 <br>
 
-<img src="readmeimages/republic1.png" alt="republic1" width="700px" height="400px">
+<img src="readmeimage/republic1.png" alt="republic1" width="700px" height="400px">
 <br><br>
 <img src="readmeimage/republic2.png" alt="republic2" width="700px" height="400px">
 <br><br>
