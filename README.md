@@ -35,15 +35,17 @@
 <h2>ALL ANIMATION SECTION</h2>
 <br>
 
-<img src="readmeimage/animation1.png" alt="animation" width="700px" height="400px">
+<img src="readmeimage/all.png" alt="animation" width="700px" height="400px">
 <br><br>
-<im<img src="readmeimage/animation2.png" alt="animation" width="700px" height="400px">
+<im<img src="readmeimage/all1.png" alt="animation" width="700px" height="400px">
 <br><br>
-<img src="readmeimage/animation3.png" alt="animation" width="700px" height="400px">
+<img src="readmeimage/all2.png" alt="animation" width="700px" height="400px">
 <br><br>
-<img src="readmeimage/animation4.png" alt="animation" width="700px" height="400px">
+<img src="readmeimage/present.png" alt="animation" width="700px" height="400px">
 <br><br>
-<img src="readmeimage/animation5.png" alt="animation" width="700px" height="400px">
+<img src="readmeimage/new.png" alt="animation" width="700px" height="400px">
+<br><br>
+<img src="readmeimage/comingsoon.png" alt="animation" width="700px" height="400px">
 <br><br>
 <h2>DIWALI PAGE ANIMATION SECTION</h2>
 <br>
