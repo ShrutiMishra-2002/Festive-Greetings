@@ -6,6 +6,8 @@
 
 body {
   background: url(assets/img/bg6.jpeg);
+  /* background: url(assets/img/holi1.jpeg); */
+
   /* background: url(assets/img/bg2.jpeg); */
   background-size: cover; 
   /* background:#000;  */
@@ -17,10 +19,11 @@ body {
   /* margin: 0;
   padding: 0; */
   overflow: hidden;
-  display: flex;
+   display: flex;
   justify-content: center;
   align-items: center;
-  /* position: relative; */
+  /* position: relative;  */
+  
 }
 div {
   position: relative;
@@ -28,12 +31,14 @@ div {
 }
 h1 {
   min-height: 80vh;
+  /* min-height: 100vh; */
+
   margin: 0;
   padding: 0;
   font-size: 7.5em;
   font-style: italic;
 letter-spacing: 15px ;
-  /* color: #000; */
+  /* color: #fff; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -106,9 +111,9 @@ ul li:nth-child(even) {
 }
 ul li:nth-child(1) {
   animation-delay: 0s;
-  /* background: #ff0000; */
+  background: #ff0000;
     /* background: #008080; */
-      background: orange;
+      /* background: orange; */
 
 
 }
