@@ -47,8 +47,11 @@ section video
     height: 100vh;
     object-fit: cover;
 }
-audio{
+/* audio{
 
     visibility: hidden;
-}
+} */
 
+audio {
+    display: none; 
+  }

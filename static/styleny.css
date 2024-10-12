@@ -7,7 +7,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background: url(assets/img/ny.jpg);
+  background: url(/assets/img/ny.jpg);
   /* background:linear-gradient(#0f0c29,#302b63,#24243e); */
   background-size: cover;
   width: 100%;
