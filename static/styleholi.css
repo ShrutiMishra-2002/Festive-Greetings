@@ -6,15 +6,7 @@
 
 body {
   background: url(/assets/img/bg6.jpeg);
-  /* background: url(assets/img/holi1.jpeg); */
-
-  /* background: url(assets/img/bg2.jpeg); */
   background-size: cover; 
-  /* background:#000;  */
-  /* font-family: "Poppins", sans-serif; */
-  /* font-family: 'Dancing Script', cursive; */
-  /* font-family: 'Kaushan Script', cursive; */
-  /* font-family: 'Arbutus Slab', serif; */
   font-family: 'Merriweather', serif;
   /* margin: 0;
   padding: 0; */
@@ -30,29 +22,21 @@ div {
   z-index: 1;
 }
 h1 {
-  min-height: 80vh;
-  /* min-height: 100vh; */
+  /* min-height: 80vh; */
+  min-height: 100vh;
 
   margin: 0;
   padding: 0;
-  font-size: 7.5em;
+  font-size: 6.5em;
   font-style: italic;
 letter-spacing: 15px ;
   /* color: #fff; */
   display: flex;
   justify-content: center;
   align-items: center;
-
-  /* -webkit-text-stroke:black 0.5px;  */
-  /* -webkit-text-stroke:green 1px;  */
-
-  /* background: url(assets/img/portfolio/sc--q3gk0CLA7v6wNhRGGCQ7n7P4jaLnXdcc.webp); */
-  background: url(assets/img/holi.jpg);
-  /* background: url(assets/img/bg8.jpeg); */
-
     -webkit-animation: background-animation 8s linear infinite;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    /* -webkit-text-fill-color: transparent; */
      
 }  
 ul {
